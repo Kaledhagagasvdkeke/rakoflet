@@ -1,1 +1,1 @@
-flet
+python3,kivy,requests,urllib3
